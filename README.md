@@ -5,9 +5,13 @@ trying to sell or showing off this code is the same as a brain disorder (brain d
 
 # How to Use
 » cd GTPS-HTTP
+
 » npm install typescript ts-node --global
+
 » npm install @types/node --save
+
 » Create folder with name assets
+
 » ts-node index.ts
 
 # About GTPS-HTTP
